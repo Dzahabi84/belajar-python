@@ -11,4 +11,10 @@ print(x % y) #Sisa Pembagian (Modulo)
 x += 2
 print(x)
 y += 3
-print(y)
+print(y) 
+
+# Hierarki Matematika (Prioritas)
+# 1. Tanda Kurung
+# 2. Per Pangkatan
+# 3. Perkalian Dan Pembagian
+# 4. Penjumlahan Dan Pengurangan
